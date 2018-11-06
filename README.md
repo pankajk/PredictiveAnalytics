@@ -19,7 +19,7 @@ In this module, we will cover mathematics foundation for predictive analytics. T
 
 
 
-Introduction to Statistical Learning and its big brother, The Elements of Statistical Learning, are quite seriously mathematical and conceptual book, which is in fact basis for lecture notes.
+Introduction to Statistical Learning (https://www-bcf.usc.edu/~gareth/ISL/) and its big brother, The Elements of Statistical Learning (https://www.springer.com/gp/book/9780387848570), are quite seriously mathematical and conceptual book, which is in fact basis for lecture notes.
 
 
 
