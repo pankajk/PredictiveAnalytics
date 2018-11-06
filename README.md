@@ -27,7 +27,7 @@ Introduction to Statistical Learning (https://www-bcf.usc.edu/~gareth/ISL/) and 
 
 
 
-We will use Python to learn statistical and probabilistic approaches for understanding, analyzing and gaining insights from data. Please download and install Anaconda (Python 3.7 version) as per your operating system. Its must for running in class assignment. Best place to start learning python is Google's Python Class.
+We will use Python to learn statistical and probabilistic approaches for understanding, analyzing and gaining insights from data. Please download and install Anaconda (Python 3.7 version) as per your operating system. Its must for running in class assignment. Best place to start learning python is Google's Python Class. Best way to go about "installing python", "starting Jupyter notebook" and "interacting with conda" can be found at Unidata's (https://unidata.github.io/online-python-training/)
 
 
 
