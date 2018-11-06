@@ -23,7 +23,7 @@ Introduction to Statistical Learning (https://www-bcf.usc.edu/~gareth/ISL/) and 
 
 
 
-### Software:
+### Softwares:
 
 
 
