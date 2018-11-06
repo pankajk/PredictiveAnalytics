@@ -45,13 +45,13 @@ In this module, we will cover different types of linear/non-linear regression an
 
 
 
-Books:
+### Books:
 
 
 
 Introduction to Statistical Learning (https://www-bcf.usc.edu/~gareth/ISL/) and its big brother, The Elements of Statistical Learning (https://www.springer.com/gp/book/9780387848570), are quite seriously mathematical and conceptual book, which is in fact basis for lecture notes. Building Machine Learning System with Python (https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) gives good overview of regression analysis. 
 
-Software:
+### Software:
 
 
 
@@ -59,7 +59,7 @@ We will use Python to learn statistical and probabilistic approaches for underst
 
 
 
-Logistics:
+### Logistics:
 
 
 
