@@ -63,7 +63,7 @@ We will use Python to learn statistical and probabilistic approaches for underst
 
 
 
-Details on each module component will be hosted on public GitHub repository 
+Details on each module component will be hosted on public GitHub repository (https://github.com/pankajk/PredictiveAnalytics)
 
 
 
