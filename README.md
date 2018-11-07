@@ -11,6 +11,7 @@ Predictive Analytics module is divided into three module. Every module consists 
 
 
 Introduction to Statistical Learning (https://www-bcf.usc.edu/~gareth/ISL/) and its big brother, The Elements of Statistical Learning (https://www.springer.com/gp/book/9780387848570), are quite seriously mathematical and conceptual book, which is in fact basis for lecture notes.
+
 Building Machine Learning System with Python (https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) gives good overview of regression analysis. 
 
 Time series analysis, James Douglas Hamilton. Princeton Univ. Press, Princeton, NJ, (1994) (https://press.princeton.edu/titles/5386.html)
