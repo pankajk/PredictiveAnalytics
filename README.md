@@ -29,7 +29,13 @@ We will use Python to learn statistical and probabilistic approaches for underst
 ### Logistics:
 
 
- Details on each module component will be hosted on public GitHub repository (https://github.com/pankajk/PredictiveAnalytics)
+ Details on each module component will be hosted on public GitHub repository (https://github.com/pankajk/PredictiveAnalytics). Its good to have look at Python, numpy, scikit-learn, pandas, matplotlib, pdb; git; LaTeX; markdown. 
+ 
+ [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+ [git tutorial] (https://try.github.io/)
+
+
+
 
 
 
