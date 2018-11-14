@@ -6,7 +6,7 @@ This repository is meant for sharing lecture note, assignments and data for pred
 Predictive Analytics module is divided into three module. Every module consists of a mixture of lectures and in-class assignment. Lecture exercises, and in-class assignments will be provided through Jupyter notebooks.
 
 
-## Books:
+### Books:
 
 
 
@@ -38,7 +38,9 @@ We will use Python to learn statistical and probabilistic approaches for underst
  [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 
+### Acknowledgments
 
+This repository borrows parts of code and data from [Kaggle Competitions](https://www.kaggle.com/competitions). The slides used in lectures are partly taken from various sources, which includes books, lectures notes and videos. A big shout for all of them even if their name is not dully acknowledged.
 
 
 
