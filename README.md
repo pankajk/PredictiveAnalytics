@@ -65,6 +65,6 @@ In this module, we will cover different types of linear/non-linear regression an
 
 Time Series Analysis has wide applicability in predictive analytics, weither its finance, marketing and engineering, among many other fields of practice. This module will illustrate time series analysis using many applications from these fields. This module will provide exposure to standard time series analysis topics such as modeling time series using regression analysis, univariate ARMA/ARIMA modelling, (G)ARCH modeling, Vector Autoregressive (VAR) model along with forecasting, model identification and diagnostics. 
 
-
+Time-series analysis application to find the best model and predict future stock values using S&P 500 Stock Index is quite well documented [here](https://www.datascience.com/blog/stock-price-time-series-arima).
 
 
